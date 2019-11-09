@@ -20,11 +20,11 @@ A step by step series of examples that tell you how to get a development env run
 
 You will need to install all the packages and modules if you dont have them using pip.
 
-- requests
-- bs4
-- smtplib
-- art
-- flask
+* requests
+* bs4
+* smtplib
+* art
+* flask
 
 you can install them manually or install the requirement.txt
 
@@ -48,9 +48,9 @@ The email to send the results to
 
 ## Built With
 
-- [Flask](https://www.palletsprojects.com/p/flask/) - The web framework used
-- [PIP](https://maven.apache.org/) - Package maneger for python Management
-- [Beatiful soup](https://https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Used to generate RSS Feeds
+* [Flask](https://www.palletsprojects.com/p/flask/) - The web framework used
+* [PIP](https://maven.apache.org/) - Package maneger for python Management
+* [Beatiful soup](https://https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -60,11 +60,11 @@ Until now contributing is closed
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-- **TheXtroyer1221** - _Initial work_ - [Check github account](https://github.com/theXtroyer1221)
+* **TheXtroyer1221** - *Initial work* - [Check github account](https://github.com/theXtroyer1221)
 
 See also the list of [contributors](https://github.com/theXtroyer1221/Price-tracker-amazon/contributors) who participated in this project.
 
@@ -76,6 +76,7 @@ License coming soon
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Feel free to contact me for issues
-- The flask web app is in progress
+* Hat tip to anyone whose code was used
+* Feel free to contact me for issues
+* The flask web app is in progress
+
